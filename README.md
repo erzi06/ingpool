@@ -1,1 +1,3 @@
 # ingpool
+
+pool for mining
